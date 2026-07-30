@@ -36,7 +36,7 @@ void display()
     }
     else
     {
-        cout << "Queue elements are: ";
+        cout << "Queue elements are lolo: ";
 
         for (int i = front; i <= rear; i++)
         {
